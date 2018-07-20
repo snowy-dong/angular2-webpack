@@ -1,2 +1,2 @@
-# angular2-webpack
-angular2-webpack
+# angularX-webpack
+angularX-webpack
